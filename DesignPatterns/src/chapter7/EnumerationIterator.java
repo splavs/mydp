@@ -7,6 +7,7 @@ import java.util.*;
 
 /**
  * @author I
+ * This interface will help to work with Enumeration like Iterator.
  *
  */
 public class EnumerationIterator<E> implements Iterator<E> {
