@@ -8,6 +8,7 @@ import java.util.*;
 /**
  * @author I
  * @param <E>
+ * This class helps to work with iterator as Enumeration
  *
  */
 public class IteratorEnumeration<E> implements Enumeration<E> {
