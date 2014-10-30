@@ -3,7 +3,8 @@
  */
 package chapter7;
 
-import java.util.*;
+import java.util.Enumeration;
+import java.util.Iterator;
 
 /**
  * @author I
